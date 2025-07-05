@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Merin Wilson
 
-<!--
-**wmerin/wmerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student** | Amal Jyothi College of Engineering  
+💻 Passionate about Full Stack Development & Software Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Skilled in **C**, **Java**, **Python**, and **JavaScript**
+- Exploring **Node.js**, **Express.js**, **MongoDB**, and **React**
+- Interested in **Big Data**, **AI/ML**, and smart tech solutions
+
+---
+
+## 📚 Highlights
+- Selected for **Kerala Startup Mission Bootcamp** via KTU Ideathon
+- Building a full-stack platform for **Shalimar Builders**
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: merinwilson63@gmail.com  
+- 🌐 [LinkedIn](www.linkedin.com/in/merinwilson04)
+
+---
+
+> "Eager to apply my knowledge to real-world challenges and contribute to impactful tech."
