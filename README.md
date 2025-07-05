@@ -1,4 +1,7 @@
-<h1 align="center">💫 Hi, I'm Merin Wilson</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> Hi, I'm Merin Wilson
+</h1>
+
 
 <p align="center">
 I'm a Computer Science student at Amal Jyothi College of Engineering, currently diving deep into full stack development and software engineering.
