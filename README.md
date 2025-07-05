@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 Hi , I'm Merin Wilson:
 I'm a Computer Science student at Amal Jyothi College of Engineering, currently diving deep into full stack development and software engineering.<br><br>About Me:<br>-  Comfortable with C, Java, Python, and JavaScript<br>-  Working with Node.js, Express.js, MongoDB, and React<br>-  Interested in big data, AI/ML, and smart tech solutions<br>-  Selected for the Kerala Startup Mission Bootcamp through KTU Ideathon<br>"Always learning. Always building."
 
@@ -15,4 +16,4 @@ I'm a Computer Science student at Amal Jyothi College of Engineering, currently 
 ---
 [![](https://visitcount.itsvg.in/api?id=wmerin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
