@@ -1,27 +1,17 @@
 # 👋 Hi, I'm Merin Wilson
 
-🎓 **B.Tech CSE Student** | Amal Jyothi College of Engineering  
-💻 Passionate about Full Stack Development & Software Engineering
+🎓 I'm a Computer Science student at Amal Jyothi College of Engineering, currently diving deep into full stack development and software engineering.
 
----
+## About Me
 
-## 🚀 About Me
-- Skilled in **C**, **Java**, **Python**, and **JavaScript**
-- Exploring **Node.js**, **Express.js**, **MongoDB**, and **React**
-- Interested in **Big Data**, **AI/ML**, and smart tech solutions
+- Comfortable with C, Java, Python, and JavaScript  
+- Working with Node.js, Express.js, MongoDB, and React  
+- Interested in big data, AI/ML, and smart tech solutions  
+- Selected for the Kerala Startup Mission Bootcamp through KTU Ideathon
+  
+## Contact
 
----
+📧 merinwilson63@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/merinwilson04/)
 
-## 📚 Highlights
-- Selected for **Kerala Startup Mission Bootcamp** via KTU Ideathon
-- Building a full-stack platform for **Shalimar Builders**
-
----
-
-## 📫 Let's Connect
-- 📧 Email: merinwilson63@gmail.com  
-- 🌐 [LinkedIn](www.linkedin.com/in/merinwilson04)
-
----
-
-> "Eager to apply my knowledge to real-world challenges and contribute to impactful tech."
+"Always learning. Always building."
